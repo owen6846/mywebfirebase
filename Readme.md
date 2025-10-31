@@ -3,7 +3,7 @@ sudo apt-get update
 
 安裝git
 sudo apt-get install git
-git clone https://github.com/owen6846/mywebfirebase.git
+git clone ...
 
 安裝python
 sudo apt-get update
